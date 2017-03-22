@@ -1,0 +1,14 @@
+{
+    "name": "consumo/api",
+    "description": "treinando como consumir uma api",
+    "type": "composer.phar",
+    "authors": [
+        {
+            "name": "Marcus",
+            "email": "marcus.gbrl@live.com"
+        }
+    ],
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    }
+}
